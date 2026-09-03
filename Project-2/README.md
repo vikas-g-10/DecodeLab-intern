@@ -1,4 +1,4 @@
-# DecodeLabs Backend Project 2
+# Backend Project 2
 
 A RESTful backend API built with **Node.js, Express.js, PostgreSQL, and Prisma ORM** as part of the DecodeLabs internship.
 
@@ -229,22 +229,11 @@ This project provided practical experience with:
 - Error handling
 - Persistent database storage
 - Environment variable management
-- Git and GitHub version control
 
-##  Author
+## Conclusion
 
-**Vikas Yadav**
+This project demonstrates how to build a backend CRUD API using Node.js, Express.js, PostgreSQL, and Prisma ORM.
 
-DecodeLabs Internship
+It provides practical experience in database integration, API development, request handling, validation, error handling, and data persistence.
 
-GitHub: https://github.com/vikas-g-10
-
-##  Repository
-
-The DecodeLabs internship repository contains both projects:
-
-```text
-DecodeLab-intern/
-├── Project-1/
-└── Project-2/
-```
+The project helped strengthen the understanding of how a backend application communicates with a PostgreSQL database and manages data through RESTful API endpoints.
