@@ -2,7 +2,7 @@
 
 A RESTful backend API built with **Node.js, Express.js, PostgreSQL, and Prisma ORM** as part of the DecodeLabs internship.
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project demonstrates backend development fundamentals through a PostgreSQL-backed REST API. It includes CRUD operations, request validation, error handling, Prisma database integration, and persistent data storage.
 
@@ -14,7 +14,7 @@ The application was developed and tested locally with:
 - Prisma ORM
 - REST API endpoints
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -25,7 +25,7 @@ The application was developed and tested locally with:
 | JavaScript | Backend programming language |
 | REST API | Client-server communication |
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Project-2/
@@ -54,7 +54,7 @@ Project-2/
 - **`prisma/migrations/`** — Database migration files.
 - **`prisma7.config.ts`** — Prisma configuration.
 
-## 🗄️ Database
+##  Database
 
 The application uses **PostgreSQL** for persistent data storage.
 
@@ -68,7 +68,7 @@ DATABASE_URL="postgresql://USERNAME:PASSWORD@localhost:5432/backend_project_2"
 
 > The actual `.env` file is intentionally excluded from GitHub so database credentials remain private.
 
-## 🔧 Prerequisites
+##  Prerequisites
 
 Install the following before running the project:
 
@@ -84,7 +84,7 @@ npm --version
 psql --version
 ```
 
-## 📥 Installation
+##  Installation
 
 Clone the repository:
 
@@ -104,7 +104,7 @@ Install dependencies:
 npm install
 ```
 
-## 🔐 Environment Configuration
+##  Environment Configuration
 
 Create a `.env` file inside the `Project-2` directory:
 
@@ -120,7 +120,7 @@ postgresql://USERNAME:PASSWORD@localhost:5432/DATABASE_NAME
 
 Replace the values with your PostgreSQL username, password, and database name.
 
-## 🧬 Prisma Setup
+##  Prisma Setup
 
 Generate the Prisma Client:
 
@@ -134,7 +134,7 @@ Apply the database migrations:
 npx prisma migrate dev
 ```
 
-## ▶️ Running the Server
+##  Running the Server
 
 Start the backend server:
 
@@ -148,7 +148,7 @@ The application runs locally on:
 http://localhost:3000
 ```
 
-## 🔌 API Functionality
+##  API Functionality
 
 The backend provides CRUD functionality for managing users/members.
 
@@ -161,7 +161,7 @@ The implemented functionality includes:
 
 The API also handles validation and errors for invalid requests.
 
-## 🧪 Testing
+##  Testing
 
 The application was tested locally to verify:
 
@@ -178,7 +178,7 @@ The application was tested locally to verify:
 
 Database connectivity and the final persistence test were successfully verified during development.
 
-## 🗃️ Data Persistence
+##  Data Persistence
 
 Data is stored in PostgreSQL through Prisma rather than only in server memory.
 
@@ -202,7 +202,7 @@ Persistent Data
 
 Because the data is stored in PostgreSQL, restarting the Node.js server does not remove the stored records.
 
-## 🔒 Security
+##  Security
 
 Sensitive configuration is kept out of version control.
 
@@ -215,7 +215,7 @@ node_modules/
 
 This prevents database credentials and installed dependencies from being uploaded to GitHub.
 
-## 📚 Key Learning Outcomes
+##  Key Learning Outcomes
 
 This project provided practical experience with:
 
@@ -231,7 +231,7 @@ This project provided practical experience with:
 - Environment variable management
 - Git and GitHub version control
 
-## 👨‍💻 Author
+##  Author
 
 **Vikas Yadav**
 
@@ -239,7 +239,7 @@ DecodeLabs Internship
 
 GitHub: https://github.com/vikas-g-10
 
-## 📌 Repository
+##  Repository
 
 The DecodeLabs internship repository contains both projects:
 
