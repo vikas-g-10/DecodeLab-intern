@@ -262,7 +262,6 @@ This project provided practical experience with:
 * Error handling
 * Response transformation
 * Postman API testing
-* Git and GitHub
 
 ## Conclusion
 
@@ -270,22 +269,4 @@ This project demonstrates how a backend application can securely communicate wit
 
 It provides practical experience in asynchronous programming, API integration, environment variable management, response formatting, and backend error handling.
 
-## Author
 
-Vikas G
-
-DecodeLabs Internship
-
-GitHub: https://github.com/vikas-g-10
-
-## Repository
-
-The DecodeLabs internship repository contains all completed backend projects:
-
-```text
-DecodeLab-intern/
-├── Project-1/
-├── Project-2/
-├── Project-3/
-└── Project-4/
-```
