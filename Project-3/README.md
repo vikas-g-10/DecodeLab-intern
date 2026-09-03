@@ -558,7 +558,6 @@ This project provided practical experience with:
 * REST API development
 * Postman API testing
 * Backend security practices
-* Git and GitHub version control
 
 ## Conclusion
 
@@ -568,22 +567,3 @@ It covers password hashing, user login, JWT-based authentication, protected rout
 
 The project provides practical experience in implementing security mechanisms that are commonly used in modern backend applications.
 
-## Author
-
-**Vikas Yadav**
-
-DecodeLabs Internship
-
-GitHub: https://github.com/vikas-g-10
-
-## Repository
-
-The DecodeLabs internship repository contains the backend projects:
-
-```text
-DecodeLab-intern/
-│
-├── Project-1/
-├── Project-2/
-└── Project-3/
-```
