@@ -1,4 +1,4 @@
-# Backend Project 2
+# Backend Development - Project 2
 
 A RESTful backend API built with **Node.js, Express.js, PostgreSQL, and Prisma ORM** as part of the DecodeLabs internship.
 
